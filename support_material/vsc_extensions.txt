@@ -1,0 +1,5 @@
+1. Live server
+2. Bracket pair colorizer (functionality ins inlcuded in VSC)
+3. PHP Intelephense or Intellisense
+
+
