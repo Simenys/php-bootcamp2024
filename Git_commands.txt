@@ -1,4 +1,7 @@
 Update local from GitHub - git pull origin main
+NOTE!!
+git pull copies changes from remote repository directly into your working directory
+git fetch only copies changes into your local git repository
 
 
 Open terminal and enter the folder of the github repository/project you want to update
